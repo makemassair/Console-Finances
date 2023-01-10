@@ -87,7 +87,3 @@ View the deployed application for week-4: console-finances at [makemassair.githu
 ### Screenshot
 
 ![image](screenshot.jpg)
-
-### Screenshot
-
-![image](screenshot.jpg)
